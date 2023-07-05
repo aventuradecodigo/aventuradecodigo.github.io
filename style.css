@@ -1,0 +1,107 @@
+.first{
+    background: linear-gradient(rgb(181, 250, 247), rgba(255, 203, 173, 1));
+    margin-left: -7px;   
+    margin-right: -8px; 
+    margin-top: -15px;
+}
+
+
+.wrap{
+    position: relative;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.banner{
+    width: 100%;
+    text-align: center;
+    border-radius: 25px;
+    filter: brightness(50%);
+}
+.title{
+    position: absolute;
+    font-size: 9.2vw;
+    top:50%;
+    left:45%;
+    transform: translate(-45%, -50%);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+.subtitle{
+    position: absolute;
+    font-size: 3.2vw;
+    color:white;
+    top:75%;
+    left:17%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.topnav {
+    background-color: #242525;
+    overflow: hidden;
+    margin-top: -11px;
+    margin-left:-10px;
+    margin-bottom:15px;
+    height:60px;
+    width: 102%;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.topnav a:hover {
+    background-color: rgba(246, 210, 189, 1);
+    color: black;
+}
+.topnav a.active {
+    background-color: rgb(122, 245, 238);
+    color: black;
+}
+
+.headings{
+    color:white;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: -17px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.description{
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box{
+    border-radius: 25px;
+    padding:10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 8px 8px 5px rgb(246, 174, 132);
+}
+
+
+.second{
+    background: linear-gradient(rgba(255, 203, 173, 1), #34BE3D);
+    margin-left: -7px;   
+    margin-right: -8px;
+    margin-top: -55px; 
+    margin-bottom: -35px;
+}
+
+.languageHeading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    padding-top: 100px;
+}
+
