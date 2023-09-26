@@ -2,8 +2,8 @@
 .topnav {
     background-color: #242525;
     margin-top: -11px;
-    margin-left:-7px;
-    margin-right: -7px;
+    margin-left:-8px;
+    margin-right: -8px;
     margin-bottom:15px;
     height:60px;
 }
@@ -15,14 +15,11 @@
     font-size: 20px;
     height: 100%;
     font-family: 'Courier New', Courier, monospace;
-    color:white;
 }
 
 .active {
     background-color: rgb(152, 235, 230);
     color:black;
-    padding:0px;
-    border:none;
     border-radius: 25px;
 }
 
@@ -34,6 +31,7 @@
   .dropdown {
     position: relative;
     display: inline-block;
+    color:white;
   }
   /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
